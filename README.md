@@ -18,3 +18,4 @@ Sales by Outlet Size: Objective: Analyze the correlation between outlet size and
 Sales by Outlet Location: Objective: Assess the geographic distribution of sales across different locations. Chart Type: Funnel Map.
 
 All Metrics by Outlet Type: Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types. Chart Type: Matrix Card.
+https://github.com/Satyamdiwaker07/Blinkit_Sales_Analysis/blob/main/blinkt%20report%20dashboard.png?raw=true
